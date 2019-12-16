@@ -1,0 +1,21 @@
+* {
+  color: firebrick;
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.game-section {
+  background-color: black;
+  width: 100vw;
+  height: 100vh;
+}
+
+.flex {
+  display: flex;
+}
+
+.flex.centered {
+  align-items: center;
+  justify-content: center;
+}
